@@ -26,7 +26,7 @@ Excel: Data cleaning , transformation and dashboard visualization
 Total sales,Total selling products,sales by regions,Avg delivery time, cancellation percentage
 
 ## Dashboard Preview:
-Amozon sales Dashboard.png
+Amazon sales Dashboard.png
 
 ## Key Insights: 
 North region generated the highest sales
