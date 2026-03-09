@@ -9,7 +9,7 @@ The business wants to track total sales, identify top-selling products and regio
 monitor delivery performance, and analyze order cancellations.
 
 ## Dataset:
-Sample amazon sales dataset.xlsx
+MINI PROJECT DATASET - WEEK-03.xlsx
 
 ## Tools Used: Excel
 Excel: Data cleaning , transformation and dashboard visualization
