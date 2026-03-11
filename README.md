@@ -1,4 +1,4 @@
-# Amazon Sales Dashboard (2023)
+# Amazon Sales Analytics Dashboard|Excel
 
 # Project Overview
 This project analyzes Amazon sales data to understand sales performance across regions,
